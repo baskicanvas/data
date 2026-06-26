@@ -2,3 +2,9 @@
 
 Used python for Web scraping from the following website
 - https://results.eci.gov.in/ResultAcGenMay2026/index.htm
+
+- Assam
+- Kerala
+- Puducherry
+- Tamil Nadu
+- West Bengal
