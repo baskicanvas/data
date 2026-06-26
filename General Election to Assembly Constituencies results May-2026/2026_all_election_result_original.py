@@ -129,10 +129,6 @@ def get_state():
             'id':'S11'
         },
         {
-            'name':'Assam',
-            'id':'S03'
-        },
-        {
             'name':'Puducherry',
             'id':'U07'
         },
