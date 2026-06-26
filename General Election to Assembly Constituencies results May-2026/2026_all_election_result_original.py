@@ -148,7 +148,7 @@ def get_state():
         # print(state_name+':'+state_id)
         print(state_name_id)
 
-    stare_code = input('Select the state code:')
+    stare_code = input('Enter the state code:')
 
     for index, state_name_id in enumerate(states_name_id):
         if(state_name_id['id'] == stare_code):
